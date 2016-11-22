@@ -1,0 +1,7 @@
+
+include 'License'
+include 'Model'
+include 'Common'
+include 'WebApp'
+
+rootProject.name = 'CmbProduct'
